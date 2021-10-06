@@ -1,0 +1,10 @@
+.char-link {
+    color: black;
+    transition: 0.3s;
+}
+
+.char-link:hover {
+    text-decoration: none;
+    background: var(--bg-dark);
+    color: white;
+}

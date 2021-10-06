@@ -1,0 +1,13 @@
+input {
+    width: 25%;
+    border: none;
+    border-bottom: 1px solid grey;
+    transition: 0.5s;
+    margin-bottom: 5px;
+}
+
+input:focus {
+    margin-left: 12px;
+    font-size: 1.2em;
+    user-select: none;
+}

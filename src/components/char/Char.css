@@ -1,0 +1,8 @@
+.card {
+    max-width: 18rem;
+    padding: 20px;
+}
+
+.card-header:hover{
+    cursor: pointer;
+}
